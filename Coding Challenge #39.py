@@ -1,6 +1,6 @@
 #panos30fyllou
 def palindrome(s, l):
-    for i in range (0, l):
+    for i in range (l):
         if (not s[i] == s[l - i - 1]):                   
             return False   
     return True
