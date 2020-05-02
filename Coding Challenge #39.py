@@ -1,4 +1,4 @@
-#panos30fyllou
+#@panos30fyllou
 def palindrome(s, l):
     for i in range (l):
         if (not s[i] == s[l - i - 1]):                   
