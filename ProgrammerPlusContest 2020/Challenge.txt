@@ -1,0 +1,10 @@
+Write the function that operates as stated below:
+
+In:	"get"
+Out:	"2069"
+
+In:	"more"
+Out:	"5191716"
+
+In:	"insight"
+Out:	"209912231915"

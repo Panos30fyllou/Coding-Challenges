@@ -1,0 +1,1 @@
+Write a program which takes a string as input and calculates the number of letters that need to be added to create the palindrome string.

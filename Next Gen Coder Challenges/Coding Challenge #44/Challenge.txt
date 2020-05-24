@@ -1,0 +1,1 @@
+Take a list of numbers(numList) and an integer(x), that must be present in (numList), as input. If numList can be sorted by swapping x with any element of the numList then print "Swapped" and the sorted list seperated by space, else print "Not Swapped"

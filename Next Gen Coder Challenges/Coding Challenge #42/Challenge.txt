@@ -1,0 +1,1 @@
+Write a program that takes a positive integer as input and prints the nearest palindrome as output. Output is an increment or decrement of the input.

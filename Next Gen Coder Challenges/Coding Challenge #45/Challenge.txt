@@ -1,0 +1,6 @@
+The battle is between two trainers with their starter Pokemon. Pokemon have a Type, Attack and Health. Type can only be "Fire", "Water" or "Grass".
+Fire is stronger against Grass but weaker against Water.
+Grass is stronger against Water but weaker against Fire.
+Water is stronger against Fire but weaker against Grass.
+If a Pokemon is stronger, its attack will become Attack * 2. Else, Attack / 2.
+If a Pokemon is left with health 0 or less, it will be declared as a win for the oppenent.
